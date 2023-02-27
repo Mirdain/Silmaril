@@ -1,6 +1,8 @@
 # Silmaril
 FFXI Multi-Boxer Tool
 
+Video tutorial on how to install: https://www.youtube.com/watch?v=HsVxj6d2TYY
+
 Steps to use -
 
 Step 1: Download the repository
