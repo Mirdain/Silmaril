@@ -14,7 +14,7 @@ Step 2: Remove MOTW (mark-of-the-web) by right clicking on the two files and goi
 Step 3: Unzip the folder Silmaril-Addon.zip.
 
 Step 5: Place the Silmaril *Folder* under the windower addons 
-(contains the .lua files located at *\Windower\addons\Silmaril).
+(Should look like *\Windower\addons\Silmaril\Silmaril.lua).
 
 Step 6: Add the following line to the auto load in windower 
 (init.txt located at *\Windower\scripts).
