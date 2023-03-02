@@ -32,4 +32,4 @@ In game commands
 //sm start  
 //sm debug  
 //sm load WHM_SCH_TOON - Same folder as Silmaril  
-//sm load Modes_AoE_WHM_RDM_TOON -- Folders beneth Silmaril (Modes/AoE)
+//sm load Modes_AoE_WHM_RDM_TOON -- Folders beneath Silmaril (Modes/AoE)
