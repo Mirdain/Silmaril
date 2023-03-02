@@ -3,6 +3,8 @@ FFXI Multi-Boxer Tool
 
 Video tutorial on how to install: https://youtu.be/n7nDTAw_tjQ
 
+Discord Server - https://discord.gg/xzRFAMtFKt
+
 Steps to use -
 
 Step 1: Download the two files (Silmaril.exe and Silmaril-Addon.zip) from the release section
