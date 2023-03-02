@@ -24,3 +24,12 @@ lua l Silmaril
 Step 7: Place the Silmaril.exe where you would like and launch!
 
 *Note: If the program does not runs check that you have 6.0 .NET or higher installed.  It can be downloaded from microsoft at https://dotnet.microsoft.com/en-us/download
+
+In game commands
+
+//sm follow off  
+//sm stop  
+//sm start  
+//sm debug  
+//sm load WHM_SCH_TOON - Same folder as Silmaril  
+//sm load Modes_AoE_WHM_RDM_TOON -- Folders beneth Silmaril (Modes/AoE)
