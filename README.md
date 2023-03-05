@@ -29,12 +29,12 @@ Step 7: Place the Silmaril.exe where you would like and launch!
 
 In game commands
 
-//sm stop - stops Silmaril from windower
-//sm start - starts Silmaril from windower
-//sm follow off|on - turns on/off the movement from Silmaril
-//sm debug - Displays in game messages to help trouble shoot
+//sm stop - stops Silmaril from windower  
+//sm start - starts Silmaril from windower  
+//sm follow off|on - turns on|off the movement from Silmaril  
+//sm debug - Displays in game messages to help trouble shoot  
 //sm load WHM_SCH_TOON - Loads a file in the same folder as Silmaril  
-//sm load Modes_AoE_WHM_RDM_TOON - Folders beneath Silmaril (Modes/AoE)
-//sm info - Toggles the in game info such a skillchains for bursting
-//sm display - turns off/on the display for when Silmaril is running "Silmaril [\]"
-//sm save - saves the settings per chracter
+//sm load Modes_AoE_WHM_RDM_TOON - Loads the file in folders beneath Silmaril (Modes/AoE)  
+//sm info - Toggles the in game info such a skillchains for bursting  
+//sm display - Turns off|on the display for when Silmaril is running  
+//sm save - Saves the configuration setting (in game) per chracter  
