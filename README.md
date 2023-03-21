@@ -23,7 +23,7 @@ Step 5: Place the Silmaril *Folder* under the windower addons
 Step 6: Add the following line to the auto load in windower 
 (init.txt located at *\Windower\scripts).
 
-  ***lua l Silmaril***
+    ***lua l Silmaril***
 
 Step 7: Place the Silmaril.exe where you would like and launch!
 
