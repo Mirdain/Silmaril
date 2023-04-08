@@ -35,7 +35,8 @@ In game commands
 
 //sm stop - stops Silmaril from windower  
 //sm start - starts Silmaril from windower  
-//sm follow off|on - turns on|off the movement from Silmaril  
+//sm toggle all - turns on|off the characters 
+//sm follow all - turns on|off the movement from Silmaril  
 //sm debug - Displays in game messages to help trouble shoot  
 //sm load WHM_SCH_TOON - Loads a file in the Settings folder
 //sm load Modes_AoE_WHM_RDM_TOON - Loads the file in folders beneath Silmaril (Settings/Modes/AoE)  
