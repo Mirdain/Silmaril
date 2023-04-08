@@ -38,7 +38,7 @@ In game commands
 //sm toggle all - turns on|off the characters  
 //sm follow all - turns on|off the movement from Silmaril  
 //sm debug - Displays in game messages to help trouble shoot  
-//sm load WHM_SCH_TOON - Loads a file in the Settings folder
+//sm load WHM_SCH_TOON - Loads a file in the Settings folder  
 //sm load Modes_AoE_WHM_RDM_TOON - Loads the file in folders beneath Silmaril (Settings/Modes/AoE)  
 //sm info - Toggles the in game info such a skillchains for bursting  
 //sm display - Turns off|on the display for when Silmaril is running  
