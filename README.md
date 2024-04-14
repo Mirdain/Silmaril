@@ -13,7 +13,7 @@ Upgrading: https://github.com/Mirdain/Silmaril/wiki/07.-How-to-upgrade
 
 
 
-
+Image:
 ![image](https://github.com/Mirdain/Silmaril/assets/34732910/f220a9c3-bb3d-4714-85f8-0a0ef7e6daf6)
 
 
