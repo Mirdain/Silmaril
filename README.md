@@ -11,6 +11,7 @@ Installation: https://github.com/Mirdain/Silmaril/wiki/02.-Installation
 
 Upgrading: https://github.com/Mirdain/Silmaril/wiki/07.-How-to-upgrade
 
+
 ![image](https://github.com/Mirdain/Silmaril/assets/34732910/f220a9c3-bb3d-4714-85f8-0a0ef7e6daf6)
 
 
