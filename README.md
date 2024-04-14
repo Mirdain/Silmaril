@@ -1,4 +1,4 @@
-# Silmaril
+# The Silmaril
 Final Fantasy XI Multi-Boxer Tool
 
 Video tutorial on how to install: [https://youtu.be/n7nDTAw_tjQ](https://youtu.be/XqXwk_Zqdj0)
