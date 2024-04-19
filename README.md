@@ -7,7 +7,7 @@ Discord Server - https://discord.gg/xzRFAMtFKt
 
 For a full unlock - https://www.patreon.com/ProjectSilmaril
 
-Installation: https://github.com/Mirdain/Silmaril/wiki/02.-Installation
+Installation: https://github.com/Mirdain/Silmaril/wiki/03.-Installation
 
 Upgrading: https://github.com/Mirdain/Silmaril/wiki/07.-How-to-upgrade
 
