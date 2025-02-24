@@ -3,6 +3,8 @@ Final Fantasy XI Multi-Boxer Tool
 
 Video tutorial on how to install: [https://youtu.be/n7nDTAw_tjQ](https://youtu.be/XqXwk_Zqdj0)
 
+Download - https://github.com/Mirdain/Silmaril/releases
+
 Discord Server - https://discord.gg/6F65rwnDYR
 
 For a full unlock - https://www.patreon.com/ProjectSilmaril
